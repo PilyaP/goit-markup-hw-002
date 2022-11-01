@@ -15,11 +15,7 @@ body{
 .list {
     list-style: none;
 }
-.header-nav-link:hover,
-.header-nav-link:focus
-{
-    color: var(--blue);
-}
+
 .header-nav-link
 {text-decoration: none;
     
