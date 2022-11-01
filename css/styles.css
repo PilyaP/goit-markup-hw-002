@@ -17,12 +17,16 @@ body{
 }
 
 .header-nav-link
+
 {text-decoration: none;
-    
+    color:inherit ;
+    font-weight: 500;
+line-height: 1.1428;
+letter-spacing: 0.02em;
 }
 .color-active
 {
-    color: var(--blue):
+    color: var(--blue);
 }
 .web
 {
@@ -31,7 +35,7 @@ font-weight: 700;
 font-size: 26px;
 line-height: 1.1923;
 color: var(--blue);
-text-decoration: none
+
 
 }
 .studio {
@@ -40,13 +44,7 @@ font-weight: 700;
 font-size: 26px;
 line-height: 1.1923;
 color: #000000;
-text-decoration: none;
-}
-.header
-{
-font-weight: 500;
-line-height: 1.1428;
-letter-spacing: 0.02em;
+
 }
 
 .studio-white {
@@ -55,6 +53,7 @@ font-weight: 700;
 font-size: 26px;
 line-height: 1.1923;
 color: var(--white);
+
 }
 
 .footer-fon
