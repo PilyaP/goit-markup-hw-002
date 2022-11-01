@@ -9,7 +9,8 @@ body{
     --gray: #757575;
 }
 
-.text {
+.text 
+{
     text-decoration: none;
 }
 .list {
